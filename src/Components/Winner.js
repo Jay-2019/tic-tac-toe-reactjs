@@ -2,6 +2,7 @@
 // import ReactDOM from "react-dom";
 
 // function based component without state and life-cycle methods
+// calculateWinner component is responsable for winner declaration
 const calculateWinner = (squares) => {
 
     const lines = [
