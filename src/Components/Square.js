@@ -1,5 +1,7 @@
 import React from "react";
 import style from "../style.module.css";
+
+// square component
 class Square extends React.Component {
 
     render() {
